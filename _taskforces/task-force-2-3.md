@@ -50,6 +50,8 @@ members:
     location: University of Edinburgh
   - name: Jesper Kallehauge
     location: Aarhus University
+  - name: Oliver Gurney-Champion
+    location: Amsterdam University Medical Center
 status:  
   - A DSC/DCE-MRI code collection repository has been set up. Code collection and testing are underway.
   - 22/01/2020 Lead confirmed.
